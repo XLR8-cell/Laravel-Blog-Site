@@ -1,0 +1,18 @@
+body{
+    background: white;
+    color: black;
+    font-size: 17px;
+    max-width: 600px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    line-height: 1.6;
+}
+
+article+article{
+    margin-top: 3rem;
+    border-top: 2px solid purple;
+    padding-top: 3rem;
+}
